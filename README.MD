@@ -1,4 +1,4 @@
-<h2> TP Spring Cloud</h2>
+<h2> Spring cloud with Frontend</h2>
 <img src="screens/screen1.PNG">
 <img src="screens/screen2.PNG">
 <img src="screens/screen3.PNG">
