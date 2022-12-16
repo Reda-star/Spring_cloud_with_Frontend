@@ -1,6 +1,8 @@
 <h2> Spring cloud with Frontend</h2>
 <img src="screens/screen1.PNG">
+<h2>1. Micro-service pour les produits</h2>
 <img src="screens/screen2.PNG">
+<h2>2. Micro-service pour les clients</h2>
 <img src="screens/screen3.PNG">
 <img src="screens/screen4.PNG">
 <img src="screens/screen5.PNG">
